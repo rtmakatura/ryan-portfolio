@@ -20,7 +20,7 @@ function App() {
                 <Text size="sm" color="dimmed">
                   Description of project 1. Explain what the project is about and the technologies used.
                 </Text>
-                <Button variant="light" color="blue" fullWidth mt="md" radius="md" component="a" href="https://github.com/your-username/project-1" target="_blank">
+                <Button variant="light" color="blue" fullWidth mt="md" radius="md">
                   View Project
                 </Button>
               </Card>
@@ -34,7 +34,7 @@ function App() {
                 <Text size="sm" color="dimmed">
                   Description of project 2. Explain what the project is about and the technologies used.
                 </Text>
-                <Button variant="light" color="blue" fullWidth mt="md" radius="md" component="a" href="https://github.com/your-username/project-2" target="_blank">
+                <Button variant="light" color="blue" fullWidth mt="md" radius="md">
                   View Project
                 </Button>
               </Card>
@@ -48,7 +48,7 @@ function App() {
                 <Text size="sm" color="dimmed">
                   Description of project 3. Explain what the project is about and the technologies used.
                 </Text>
-                <Button variant="light" color="blue" fullWidth mt="md" radius="md" component="a" href="https://github.com/your-username/project-3" target="_blank">
+                <Button variant="light" color="blue" fullWidth mt="md" radius="md">
                   View Project
                 </Button>
               </Card>
